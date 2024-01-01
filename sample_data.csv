@@ -1,0 +1,501 @@
+id,sex,is_employed,income,marital_status,health_insurance,housing_type,recent_move,num_vehicles,age,state_of_res
+2068,F,FALSE,11300,Married,TRUE,Homeowner free and clear,FALSE,2,49,Michigan
+2073,F,FALSE,0,Married,TRUE,Rented,TRUE,3,40,Florida
+2848,M,TRUE,45000,Never Married,FALSE,Rented,TRUE,3,29,Georgia
+5641,M,TRUE,20000,Never Married,FALSE,Occupied with no rent,FALSE,0,22,New Mexico
+6369,F,TRUE,42000,Never Married,TRUE,Rented,TRUE,1,31,Florida
+8322,F,TRUE,NA,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,40,New York
+8521,M,TRUE,120000,Never Married,TRUE,Homeowner free and clear,TRUE,1,39,Idaho
+12195,M,TRUE,40000,Married,TRUE,Rented,FALSE,3,48,Michigan
+14989,M,FALSE,54000,Married,TRUE,Rented,FALSE,2,44,Illinois
+15917,F,TRUE,24000,Divorced/Separated,TRUE,Homeowner free and clear,FALSE,1,70,North Carolina
+16551,F,FALSE,15000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,46,Georgia
+17134,M,TRUE,220000,Married,TRUE,Homeowner free and clear,TRUE,2,33,Indiana
+17946,F,TRUE,85000,Divorced/Separated,TRUE,Rented,FALSE,1,51,New Hampshire
+18487,F,TRUE,89200,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,63,Georgia
+20383,M,TRUE,170000,Never Married,TRUE,Homeowner with mortgage/loan,TRUE,1,35,South Carolina
+22295,M,TRUE,34400,Married,TRUE,Homeowner free and clear,FALSE,3,54,Pennsylvania
+25863,M,FALSE,41000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,70,Virginia
+26057,M,TRUE,30000,Married,TRUE,NA,NA,NA,28,Florida
+26355,M,TRUE,80000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,36,New Jersey
+27214,M,FALSE,18800,Married,TRUE,Homeowner free and clear,FALSE,2,68,Ohio
+27445,F,TRUE,35000,Never Married,TRUE,Rented,FALSE,2,53,Florida
+27761,M,TRUE,24000,Never Married,FALSE,Rented,FALSE,2,33,Illinois
+27928,M,TRUE,75000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,58,New York
+30768,M,TRUE,80000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,50,New Jersey
+31710,F,TRUE,397000,Widowed,TRUE,Homeowner with mortgage/loan,FALSE,2,55,Missouri
+33651,F,TRUE,45000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,2,44,California
+33828,F,TRUE,24900,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,49,Wisconsin
+36825,M,TRUE,37500,Married,FALSE,Rented,FALSE,2,35,South Dakota
+37224,M,TRUE,NA,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,48,Colorado
+38827,F,FALSE,9700,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,72,Oklahoma
+40132,M,TRUE,22000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,66,Illinois
+40449,M,FALSE,53000,Married,TRUE,Homeowner free and clear,FALSE,3,84,Kentucky
+42374,M,FALSE,37800,Never Married,TRUE,Homeowner free and clear,FALSE,1,65,Kentucky
+46099,M,TRUE,36880,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,2,65,Massachusetts
+46791,M,FALSE,22700,Married,TRUE,Homeowner free and clear,FALSE,2,67,Oklahoma
+47009,F,TRUE,34300,Married,TRUE,Rented,FALSE,1,33,New York
+48479,M,TRUE,90000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,58,Texas
+49496,M,FALSE,94400,Widowed,TRUE,Homeowner free and clear,FALSE,2,88,Wisconsin
+50220,M,FALSE,22300,Divorced/Separated,TRUE,Rented,FALSE,1,85,Texas
+51723,F,FALSE,15700,Widowed,TRUE,Homeowner free and clear,FALSE,1,78,Ohio
+52197,M,FALSE,65100,Married,TRUE,Homeowner free and clear,FALSE,2,66,Florida
+52382,M,TRUE,45050,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,39,Ohio
+52420,M,TRUE,46000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,57,Florida
+52436,F,TRUE,139000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,46,Pennsylvania
+53186,F,FALSE,0,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,61,Pennsylvania
+53214,M,TRUE,84010,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,57,New York
+53759,F,FALSE,0,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,34,Ohio
+54177,M,FALSE,51500,Married,TRUE,Homeowner free and clear,FALSE,2,86,New York
+55873,F,FALSE,25400,Never Married,TRUE,Rented,FALSE,1,60,New York
+55992,F,NA,0,Married,TRUE,Rented,FALSE,1,38,Colorado
+56040,F,NA,0,Married,TRUE,Rented,TRUE,2,39,California
+62999,M,TRUE,91000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,51,New York
+65004,F,TRUE,150000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,4,49,Florida
+66778,M,TRUE,19000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,40,Virginia
+67776,M,TRUE,52000,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,38,Florida
+68013,M,NA,100,Divorced/Separated,FALSE,NA,NA,NA,28,California
+68221,M,TRUE,78000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,29,California
+69062,M,TRUE,120300,Married,TRUE,Homeowner free and clear,FALSE,4,59,California
+72741,F,NA,42500,Widowed,TRUE,Homeowner free and clear,FALSE,0,88,Michigan
+74447,M,TRUE,162000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,33,Maryland
+76182,F,TRUE,18200,Divorced/Separated,FALSE,Homeowner with mortgage/loan,FALSE,1,41,Connecticut
+77312,M,TRUE,NA,Married,FALSE,Homeowner free and clear,FALSE,2,35,Mississippi
+78476,M,TRUE,76000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,60,Illinois
+79069,M,TRUE,30000,Married,FALSE,Rented,TRUE,1,40,Texas
+80274,M,NA,37300,Married,TRUE,Homeowner free and clear,FALSE,5,68,New Jersey
+80549,M,TRUE,85200,Married,TRUE,Homeowner free and clear,FALSE,2,75,Arkansas
+82503,M,TRUE,70000,Married,TRUE,Homeowner free and clear,FALSE,2,69,California
+84636,M,TRUE,33600,Married,FALSE,Rented,FALSE,2,32,South Carolina
+84879,F,TRUE,29800,Married,TRUE,Homeowner free and clear,FALSE,2,42,Missouri
+85398,F,TRUE,21600,Never Married,FALSE,Homeowner with mortgage/loan,FALSE,6,44,California
+86711,M,TRUE,47950,Never Married,TRUE,Homeowner free and clear,FALSE,1,76,California
+86786,F,TRUE,39600,Never Married,TRUE,Rented,FALSE,1,49,New Jersey
+90303,M,TRUE,0,Never Married,FALSE,NA,NA,NA,45,Kentucky
+90863,M,TRUE,285020,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,37,Washington
+92706,M,TRUE,9100,Never Married,TRUE,Rented,FALSE,0,82,Rhode Island
+94743,M,TRUE,299000,Married,TRUE,Homeowner free and clear,FALSE,2,64,Missouri
+96964,M,TRUE,266200,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,69,Texas
+97247,F,TRUE,70500,Widowed,TRUE,Homeowner with mortgage/loan,FALSE,1,78,Idaho
+98086,M,TRUE,52100,Married,TRUE,Homeowner with mortgage/loan,TRUE,2,69,Florida
+99068,F,TRUE,38800,Never Married,TRUE,Rented,FALSE,3,34,New York
+100475,F,TRUE,28800,Divorced/Separated,TRUE,Rented,FALSE,1,48,Pennsylvania
+102269,M,TRUE,14400,Married,TRUE,Rented,TRUE,1,84,Washington
+103389,F,TRUE,130000,Never Married,TRUE,Rented,TRUE,1,41,Minnesota
+104048,F,TRUE,15500,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,69,Ohio
+104506,M,TRUE,30800,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,83,Alaska
+106395,M,TRUE,25700,Married,TRUE,Rented,TRUE,1,32,California
+106726,M,TRUE,39000,Married,TRUE,Rented,FALSE,1,53,South Dakota
+106956,F,TRUE,150600,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,50,Oklahoma
+107458,M,TRUE,182500,Married,TRUE,Homeowner with mortgage/loan,TRUE,2,66,Florida
+108042,F,FALSE,12200,Never Married,TRUE,Rented,FALSE,1,22,Tennessee
+110024,F,TRUE,18960,Widowed,TRUE,Homeowner free and clear,FALSE,2,83,California
+110699,M,TRUE,60000,Never Married,TRUE,Homeowner free and clear,FALSE,1,53,Iowa
+111870,M,TRUE,26000,Married,FALSE,Homeowner with mortgage/loan,FALSE,1,54,Maryland
+112116,M,TRUE,221000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,65,Minnesota
+113390,M,TRUE,NA,Never Married,FALSE,Rented,FALSE,3,43,Virginia
+114806,F,TRUE,50000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,53,Ohio
+115100,M,TRUE,NA,Never Married,FALSE,NA,NA,NA,29,California
+116171,F,TRUE,51500,Widowed,TRUE,Homeowner free and clear,FALSE,1,81,Kansas
+116481,F,TRUE,15900,Divorced/Separated,TRUE,Homeowner free and clear,FALSE,2,88,Oregon
+117491,M,TRUE,110000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,58,New Jersey
+117900,M,TRUE,60000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,40,Massachusetts
+117911,M,TRUE,29500,Widowed,TRUE,Rented,FALSE,2,67,Virginia
+118561,F,TRUE,18600,Widowed,TRUE,Rented,FALSE,1,60,Texas
+120705,M,TRUE,21400,Never Married,TRUE,Rented,TRUE,0,30,Tennessee
+122231,M,TRUE,100000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,48,Arkansas
+124968,F,TRUE,100000,Never Married,TRUE,Homeowner free and clear,FALSE,1,56,Ohio
+125155,M,TRUE,18000,Married,FALSE,Rented,TRUE,1,55,Missouri
+126507,M,TRUE,112000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,51,Florida
+127965,M,TRUE,90000,Divorced/Separated,TRUE,Homeowner free and clear,FALSE,1,50,Ohio
+131301,M,TRUE,16800,Married,FALSE,Rented,FALSE,2,48,Connecticut
+133268,M,TRUE,140000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,49,Wisconsin
+136206,F,TRUE,33700,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,56,Alabama
+138865,M,TRUE,10000,Divorced/Separated,FALSE,Rented,FALSE,1,28,New York
+139771,M,TRUE,19600,Married,TRUE,Rented,FALSE,2,42,California
+141492,F,TRUE,0,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,34,Florida
+145172,M,TRUE,241000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,83,New Jersey
+146457,M,TRUE,49000,Never Married,TRUE,Rented,FALSE,2,35,New Jersey
+147984,F,TRUE,0,Married,TRUE,Rented,FALSE,1,49,Florida
+149429,M,TRUE,90000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,2,41,California
+149480,F,TRUE,0,Married,FALSE,Homeowner free and clear,FALSE,2,46,New York
+150055,F,TRUE,78000,Married,TRUE,Rented,FALSE,2,24,Virginia
+150721,M,TRUE,402000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,44,California
+151170,F,TRUE,19000,Divorced/Separated,TRUE,Rented,FALSE,2,57,Indiana
+151678,M,TRUE,0,Never Married,FALSE,NA,NA,NA,34,Georgia
+151876,F,TRUE,NA,Divorced/Separated,TRUE,Rented,FALSE,1,86,Illinois
+153419,M,TRUE,61400,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,73,Arizona
+155762,M,TRUE,60000,Divorced/Separated,FALSE,Homeowner free and clear,FALSE,2,49,Illinois
+156520,M,TRUE,75000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,40,Illinois
+158530,M,NA,10400,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,83,Texas
+159107,M,NA,40000,Widowed,TRUE,Homeowner with mortgage/loan,FALSE,1,65,New Jersey
+159573,F,NA,14400,Widowed,TRUE,Homeowner free and clear,FALSE,1,69,Kentucky
+164576,F,FALSE,0,Never Married,FALSE,Rented,FALSE,1,28,Texas
+166246,F,TRUE,19200,Never Married,TRUE,Rented,FALSE,1,30,New York
+167154,M,FALSE,0,Never Married,FALSE,NA,NA,NA,31,New Jersey
+167498,M,FALSE,45000,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,32,Florida
+169519,F,TRUE,30600,Divorced/Separated,TRUE,Rented,FALSE,1,62,Virginia
+173493,M,FALSE,77000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,56,Texas
+174248,M,FALSE,29300,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,68,Indiana
+175033,M,FALSE,269000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,47,New York
+175572,F,FALSE,0,Married,FALSE,Rented,TRUE,2,38,West Virginia
+177122,F,TRUE,33000,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,39,Missouri
+177145,M,TRUE,60000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,46,California
+178178,F,TRUE,54000,Never Married,TRUE,Rented,FALSE,1,35,New York
+178887,F,FALSE,0,Married,FALSE,Rented,FALSE,0,44,Illinois
+179481,F,TRUE,9000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,53,Texas
+180009,M,FALSE,35000,Divorced/Separated,TRUE,Rented,TRUE,1,31,California
+181385,F,FALSE,290,Married,FALSE,Homeowner free and clear,FALSE,2,28,Wisconsin
+181754,M,TRUE,34200,Married,TRUE,Rented,FALSE,4,49,Massachusetts
+182072,F,FALSE,0,Widowed,FALSE,Rented,FALSE,1,45,Georgia
+182146,F,FALSE,40000,Never Married,FALSE,Rented,FALSE,1,35,Colorado
+183889,M,TRUE,32000,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,67,Ohio
+184170,M,FALSE,68800,Married,TRUE,Homeowner free and clear,FALSE,3,70,Oregon
+184506,M,TRUE,NA,Divorced/Separated,FALSE,Rented,TRUE,2,39,Michigan
+184686,F,TRUE,69000,Divorced/Separated,TRUE,Homeowner free and clear,FALSE,2,59,Virginia
+186475,M,TRUE,27000,Never Married,TRUE,Rented,FALSE,2,29,South Carolina
+186808,F,FALSE,33600,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,4,61,Alaska
+191018,F,FALSE,13200,Married,TRUE,Homeowner free and clear,FALSE,4,64,Indiana
+191536,F,FALSE,19000,Widowed,TRUE,Rented,FALSE,0,82,Oklahoma
+194740,F,FALSE,50000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,53,Iowa
+195539,M,FALSE,65700,Married,TRUE,Rented,FALSE,2,69,Florida
+196613,F,TRUE,77800,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,45,Washington
+196828,M,TRUE,24800,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,65,Florida
+199788,M,FALSE,43500,Never Married,FALSE,Homeowner free and clear,TRUE,2,37,Louisiana
+203816,F,FALSE,0,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,57,Michigan
+204591,F,TRUE,47500,Divorced/Separated,TRUE,Rented,FALSE,3,49,Texas
+206122,M,TRUE,127000,Married,TRUE,Rented,FALSE,2,47,Michigan
+209604,M,TRUE,87000,Married,TRUE,Homeowner free and clear,FALSE,4,54,Pennsylvania
+210241,F,TRUE,10000,Never Married,FALSE,Rented,FALSE,1,29,California
+210427,M,FALSE,12600,Married,TRUE,Homeowner free and clear,FALSE,3,78,Colorado
+211330,F,FALSE,12200,Divorced/Separated,TRUE,Homeowner free and clear,FALSE,1,78,Massachusetts
+211424,M,TRUE,110000,Divorced/Separated,TRUE,Rented,FALSE,1,50,New York
+213854,M,FALSE,84000,Never Married,TRUE,Rented,FALSE,0,22,Vermont
+214083,M,FALSE,54540,Married,TRUE,Homeowner free and clear,FALSE,1,73,West Virginia
+215876,F,FALSE,53600,Widowed,TRUE,Rented,FALSE,0,88,Texas
+217315,M,TRUE,110000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,47,Rhode Island
+218283,F,FALSE,20000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,37,New York
+220135,M,TRUE,75000,Divorced/Separated,TRUE,Rented,TRUE,2,64,California
+220142,F,FALSE,0,Never Married,TRUE,NA,NA,NA,18,Arkansas
+220205,M,TRUE,96000,Never Married,TRUE,Rented,FALSE,1,38,New Jersey
+223271,M,FALSE,54000,Married,TRUE,Rented,TRUE,3,37,California
+223773,F,FALSE,10200,Widowed,TRUE,Rented,TRUE,1,74,Michigan
+224356,M,TRUE,60000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,60,Virginia
+226840,M,TRUE,70050,Married,TRUE,Homeowner with mortgage/loan,TRUE,3,36,New Hampshire
+227318,M,FALSE,30000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,69,Connecticut
+228513,F,TRUE,412000,Widowed,TRUE,Homeowner free and clear,FALSE,3,47,Maine
+236067,M,TRUE,140000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,46,Colorado
+236880,F,TRUE,6000,Never Married,TRUE,Rented,FALSE,1,39,Michigan
+237048,M,FALSE,25000,Married,TRUE,Homeowner free and clear,FALSE,3,72,Tennessee
+249492,F,FALSE,10100,Widowed,TRUE,NA,NA,NA,93,Georgia
+250108,F,TRUE,90000,Divorced/Separated,TRUE,Rented,FALSE,2,31,Illinois
+251365,F,TRUE,58000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,64,Hawaii
+252100,M,TRUE,273000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,2,52,Virginia
+253015,M,TRUE,30000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,35,California
+254969,F,TRUE,42200,Divorced/Separated,FALSE,Rented,FALSE,1,57,Indiana
+258722,F,FALSE,9680,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,45,Tennessee
+258948,F,FALSE,10820,Widowed,TRUE,Rented,FALSE,1,85,Kentucky
+259807,M,FALSE,440,Married,TRUE,NA,NA,NA,49,West Virginia
+262234,M,FALSE,16000,Married,TRUE,Homeowner free and clear,FALSE,3,65,Georgia
+264292,M,TRUE,90000,Married,TRUE,Homeowner with mortgage/loan,FALSE,0,50,Illinois
+265299,M,FALSE,65500,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,69,Virginia
+268667,M,FALSE,200,Never Married,TRUE,NA,NA,NA,31,Pennsylvania
+269836,F,FALSE,22400,Widowed,TRUE,Homeowner with mortgage/loan,FALSE,1,77,Ohio
+272748,M,TRUE,60000,Never Married,TRUE,Rented,FALSE,3,44,Texas
+274182,M,TRUE,80000,Married,FALSE,Homeowner with mortgage/loan,FALSE,2,36,Utah
+276306,M,FALSE,31200,Married,TRUE,Rented,FALSE,1,29,California
+277784,F,FALSE,15800,Divorced/Separated,TRUE,Rented,FALSE,1,76,New York
+278995,F,TRUE,37000,Married,TRUE,Rented,TRUE,2,38,Texas
+279538,F,TRUE,62400,Never Married,TRUE,Rented,TRUE,1,42,Indiana
+281529,F,FALSE,0,Divorced/Separated,FALSE,Homeowner free and clear,FALSE,3,41,Tennessee
+283521,F,TRUE,172000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,55,Wisconsin
+283607,M,TRUE,20000,Married,TRUE,Rented,TRUE,2,41,Tennessee
+284973,F,FALSE,19000,Divorced/Separated,TRUE,Rented,FALSE,2,30,Illinois
+287882,M,TRUE,60000,Married,TRUE,Rented,TRUE,2,137.7000296,Florida
+291564,F,FALSE,28100,Widowed,TRUE,Homeowner free and clear,FALSE,1,75,New York
+291599,M,TRUE,45000,Married,TRUE,Rented,FALSE,2,27,California
+291608,F,FALSE,24700,Widowed,TRUE,Homeowner free and clear,FALSE,1,79,Georgia
+297117,M,TRUE,130000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,63,Louisiana
+298205,M,TRUE,110450,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,38,Maryland
+298782,M,FALSE,11200,Widowed,TRUE,NA,NA,NA,73,Wisconsin
+303624,M,TRUE,100000,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,41,California
+304200,F,FALSE,0,Divorced/Separated,FALSE,Homeowner with mortgage/loan,FALSE,1,53,Indiana
+307655,F,TRUE,31000,Married,TRUE,Rented,TRUE,3,26,California
+308107,F,TRUE,9800,Never Married,FALSE,Rented,FALSE,1,54,West Virginia
+310588,M,TRUE,110000,Never Married,TRUE,Rented,FALSE,0,40,Florida
+311095,F,TRUE,42000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,51,Kentucky
+314099,F,FALSE,0,Widowed,FALSE,Rented,TRUE,2,68,Pennsylvania
+315265,M,FALSE,34900,Married,TRUE,Homeowner free and clear,FALSE,3,82,Illinois
+316205,F,FALSE,6900,Married,TRUE,Rented,FALSE,2,25,New York
+316280,M,TRUE,56000,Divorced/Separated,TRUE,Rented,FALSE,1,44,Ohio
+316753,M,TRUE,54000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,36,Georgia
+317166,F,TRUE,86000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,3,54,New Jersey
+318105,M,TRUE,42200,Divorced/Separated,TRUE,Rented,FALSE,0,54,Texas
+318348,F,TRUE,40000,Divorced/Separated,FALSE,Homeowner with mortgage/loan,FALSE,4,55,Iowa
+319774,M,TRUE,38000,Married,TRUE,Homeowner free and clear,FALSE,3,49,New Jersey
+323508,M,TRUE,135000,Never Married,TRUE,Rented,TRUE,1,27,California
+324029,F,TRUE,25000,Married,TRUE,Rented,FALSE,1,37,Georgia
+330543,F,FALSE,9500,Married,TRUE,NA,NA,NA,93,Michigan
+331868,F,FALSE,36600,Widowed,TRUE,Homeowner free and clear,FALSE,2,85,Ohio
+332292,M,TRUE,61000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,3,28,Michigan
+333355,M,FALSE,22000,Married,TRUE,Rented,TRUE,2,44,Texas
+333982,F,FALSE,19200,Married,TRUE,Homeowner free and clear,FALSE,2,72,Washington
+334135,F,TRUE,200000,Never Married,TRUE,Rented,TRUE,1,32,Texas
+335080,M,TRUE,10000,Married,TRUE,Rented,TRUE,2,28,Wyoming
+335174,M,FALSE,21000,Married,TRUE,Homeowner with mortgage/loan,FALSE,0,76,Pennsylvania
+337683,F,TRUE,23100,Widowed,TRUE,Rented,FALSE,1,65,Florida
+338635,F,TRUE,13200,Never Married,TRUE,Rented,TRUE,1,21,Georgia
+341507,M,FALSE,25000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,61,New Jersey
+342460,M,TRUE,45000,Married,TRUE,Rented,FALSE,1,32,Virginia
+343235,M,TRUE,24000,Never Married,TRUE,Rented,FALSE,1,32,Nebraska
+344685,M,FALSE,0,Never Married,TRUE,NA,NA,NA,39,Tennessee
+345994,M,TRUE,177000,Married,TRUE,Homeowner with mortgage/loan,FALSE,5,48,Illinois
+348319,F,FALSE,0,Married,TRUE,Rented,FALSE,3,26,Indiana
+349344,M,TRUE,77000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,55,Michigan
+351129,F,FALSE,0,Never Married,TRUE,Rented,FALSE,2,51,New York
+352275,F,FALSE,36000,Married,TRUE,Occupied with no rent,FALSE,3,58,Pennsylvania
+354269,M,NA,22000,Never Married,FALSE,Rented,TRUE,1,29,California
+356073,M,TRUE,130000,Never Married,TRUE,Rented,FALSE,1,54,Texas
+356688,F,TRUE,27000,Never Married,FALSE,Rented,FALSE,1,26,Iowa
+356763,M,TRUE,24000,Married,FALSE,Rented,FALSE,3,48,California
+359997,F,TRUE,80050,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,39,Wisconsin
+360674,M,TRUE,10001,Never Married,TRUE,Rented,FALSE,2,38,Wisconsin
+361561,F,NA,23000,Divorced/Separated,TRUE,Rented,FALSE,1,26,Florida
+361946,M,TRUE,90600,Married,TRUE,Homeowner free and clear,FALSE,2,68,Kentucky
+361968,M,FALSE,27200,Divorced/Separated,TRUE,Rented,FALSE,1,68,New York
+363008,F,NA,5400,Married,TRUE,Rented,FALSE,1,84,Illinois
+364328,M,TRUE,67000,Married,TRUE,Rented,FALSE,1,30,Louisiana
+364991,F,NA,12000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,123.0610226,Nevada
+368645,M,TRUE,83000,Married,TRUE,Homeowner free and clear,FALSE,2,52,Michigan
+373976,F,TRUE,27000,Divorced/Separated,TRUE,Rented,TRUE,1,56,New York
+374461,M,NA,58600,Divorced/Separated,TRUE,Rented,FALSE,1,80,Mississippi
+374930,M,NA,0,Married,FALSE,NA,NA,NA,55,Maine
+376508,F,NA,0,Married,FALSE,Rented,FALSE,1,42,Iowa
+382338,M,NA,21400,Married,TRUE,Homeowner free and clear,FALSE,1,70,Kansas
+382614,M,NA,24800,Never Married,TRUE,NA,NA,NA,55,New Jersey
+382908,F,NA,30200,Widowed,TRUE,Homeowner with mortgage/loan,FALSE,2,74,Indiana
+383409,M,TRUE,15000,Never Married,FALSE,Rented,FALSE,2,24,Indiana
+383455,M,TRUE,124000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,4,44,Connecticut
+385318,F,NA,10800,Widowed,TRUE,Rented,FALSE,0,72,New York
+388567,F,NA,14600,Divorced/Separated,TRUE,Rented,FALSE,1,44,Virginia
+390273,M,NA,27100,Married,TRUE,Homeowner free and clear,FALSE,2,64,Indiana
+394696,F,NA,10200,Married,TRUE,Rented,FALSE,1,58,Wisconsin
+394790,M,NA,69040,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,75,Tennessee
+395888,M,TRUE,10800,Married,FALSE,Rented,FALSE,1,29,Pennsylvania
+396116,F,NA,0,Married,TRUE,Rented,FALSE,2,25,South Carolina
+396256,M,TRUE,36400,Married,FALSE,Homeowner with mortgage/loan,FALSE,3,34,Minnesota
+396675,F,TRUE,60000,Never Married,TRUE,Rented,TRUE,1,45,Illinois
+397230,F,TRUE,31200,Married,TRUE,Rented,FALSE,2,136.0521596,Texas
+399150,M,TRUE,50000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,38,Florida
+399930,M,TRUE,55000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,42,Florida
+403690,M,FALSE,34020,Divorced/Separated,FALSE,Homeowner with mortgage/loan,FALSE,2,50,New York
+406984,F,NA,10100,Divorced/Separated,TRUE,Rented,FALSE,1,71,North Carolina
+408221,M,TRUE,134800,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,60,North Carolina
+409728,M,TRUE,44600,Never Married,FALSE,Homeowner with mortgage/loan,FALSE,1,50,Illinois
+411385,M,TRUE,45000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,45,Pennsylvania
+415060,F,FALSE,16000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,60,California
+415381,M,TRUE,109170,Married,TRUE,Homeowner with mortgage/loan,TRUE,2,39,New York
+415575,M,NA,0,Never Married,TRUE,NA,NA,NA,63,Utah
+415741,M,TRUE,65000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,3,47,New Mexico
+416144,F,TRUE,82000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,44,Ohio
+416624,F,TRUE,30000,Married,TRUE,Rented,FALSE,1,43,Texas
+419751,M,TRUE,95300,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,57,Texas
+419951,F,TRUE,12000,Never Married,TRUE,Rented,FALSE,2,21,Wisconsin
+421248,M,TRUE,80000,Married,TRUE,Homeowner free and clear,FALSE,3,58,Nevada
+421666,M,FALSE,24700,Married,TRUE,Rented,FALSE,3,54,Idaho
+423279,M,TRUE,24000,Never Married,TRUE,Rented,TRUE,3,42,Michigan
+423910,M,TRUE,192000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,58,Ohio
+426154,F,NA,10200,Divorced/Separated,TRUE,Rented,FALSE,0,76,Indiana
+427431,F,NA,7900,Divorced/Separated,TRUE,Rented,FALSE,0,45,California
+427589,F,TRUE,40000,Divorced/Separated,TRUE,Rented,TRUE,1,54,California
+430516,F,TRUE,20000,Widowed,TRUE,Homeowner free and clear,FALSE,1,81,Maine
+431729,M,TRUE,26700,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,75,Pennsylvania
+432526,F,TRUE,7300,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,44,West Virginia
+433755,F,TRUE,60000,Widowed,TRUE,Homeowner with mortgage/loan,FALSE,3,85,Pennsylvania
+435651,F,TRUE,10800,Divorced/Separated,TRUE,Rented,FALSE,1,63,Pennsylvania
+438304,M,FALSE,9700,Married,TRUE,Rented,FALSE,1,77,Utah
+439284,F,TRUE,32000,Never Married,TRUE,Rented,FALSE,1,32,Kentucky
+440475,M,TRUE,35000,Married,TRUE,Homeowner free and clear,FALSE,2,49,New Hampshire
+441221,M,TRUE,93500,Never Married,TRUE,Rented,TRUE,0,25,New York
+442608,M,TRUE,34000,Never Married,TRUE,Homeowner with mortgage/loan,TRUE,4,23,Kentucky
+445622,F,TRUE,0,Never Married,TRUE,Rented,FALSE,2,48,Texas
+445937,F,TRUE,69900,Widowed,TRUE,Rented,FALSE,1,86,Georgia
+445985,M,TRUE,43000,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,56,Texas
+449907,M,TRUE,48000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,42,Minnesota
+450221,M,TRUE,15800,Married,FALSE,Homeowner with mortgage/loan,FALSE,2,64,Washington
+450776,F,TRUE,14900,Divorced/Separated,FALSE,Rented,FALSE,1,33,Florida
+456859,M,TRUE,80,Never Married,TRUE,NA,NA,NA,38,California
+458094,F,TRUE,0,Divorced/Separated,TRUE,Rented,FALSE,1,41,Michigan
+458212,M,TRUE,170000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,34,Texas
+458265,M,TRUE,15000,Married,TRUE,Homeowner free and clear,FALSE,1,58,Massachusetts
+459429,F,TRUE,60000,Married,TRUE,Rented,FALSE,3,38,Illinois
+459910,M,TRUE,56300,Married,TRUE,Homeowner free and clear,FALSE,1,93,California
+459959,F,TRUE,13300,Widowed,TRUE,NA,NA,NA,68,Virginia
+460642,F,TRUE,99670,Divorced/Separated,TRUE,Rented,FALSE,1,44,Alaska
+460925,F,TRUE,31300,Married,TRUE,Homeowner free and clear,FALSE,1,72,Michigan
+461021,F,FALSE,9600,Widowed,TRUE,Rented,FALSE,2,64,Pennsylvania
+461429,M,NA,12400,Married,TRUE,Rented,FALSE,2,81,West Virginia
+462569,M,NA,22000,Widowed,TRUE,Homeowner free and clear,FALSE,0,89,Iowa
+463808,F,TRUE,90000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,46,Texas
+464082,F,NA,0,Married,FALSE,Rented,FALSE,2,26,Georgia
+465818,F,FALSE,0,Married,FALSE,Homeowner with mortgage/loan,FALSE,3,33,Indiana
+467335,M,TRUE,42600,Never Married,FALSE,Rented,FALSE,1,33,Nebraska
+468344,F,TRUE,35000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,2,28,North Carolina
+468553,M,TRUE,40000,Never Married,TRUE,Rented,FALSE,2,32,Florida
+474507,F,TRUE,43000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,52,California
+478228,M,NA,98900,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,64,New York
+478502,M,TRUE,90000,Married,FALSE,Rented,FALSE,1,62,Tennessee
+479327,F,TRUE,6400,Divorced/Separated,TRUE,Rented,FALSE,2,37,Colorado
+482611,M,TRUE,50000,Married,TRUE,Rented,TRUE,0,24,Virginia
+487124,M,TRUE,32000,Married,FALSE,Rented,FALSE,2,54,Ohio
+487369,F,FALSE,22000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,48,Maryland
+487556,M,TRUE,94700,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,55,Delaware
+489718,M,NA,0,Never Married,TRUE,Rented,TRUE,0,21,New Jersey
+491280,M,NA,127000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,61,Iowa
+491389,F,NA,10000,Married,TRUE,Homeowner free and clear,TRUE,2,51,Illinois
+491848,F,NA,16700,Widowed,TRUE,Rented,FALSE,1,84,Florida
+492072,F,TRUE,80000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,49,New Mexico
+492789,F,NA,0,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,60,Massachusetts
+496465,M,NA,0,Divorced/Separated,FALSE,NA,NA,NA,45,Florida
+497970,F,TRUE,48000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,30,Missouri
+498048,M,TRUE,95000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,60,Pennsylvania
+499492,M,NA,15400,Never Married,TRUE,Homeowner free and clear,FALSE,1,54,California
+499637,F,NA,12000,Never Married,TRUE,NA,NA,NA,93,Florida
+499807,M,TRUE,125000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,43,Massachusetts
+501259,M,TRUE,90000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,56,Oklahoma
+502705,M,TRUE,70000,Married,FALSE,Rented,FALSE,4,37,Illinois
+502764,F,TRUE,71000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,47,Michigan
+503412,M,TRUE,16000,Never Married,TRUE,NA,NA,NA,21,California
+504889,M,FALSE,17300,Married,FALSE,Homeowner with mortgage/loan,FALSE,2,40,Michigan
+505318,F,TRUE,26400,Divorced/Separated,TRUE,Rented,FALSE,1,36,Virginia
+506042,M,TRUE,130100,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,51,Michigan
+509386,F,NA,0,Never Married,TRUE,NA,NA,NA,85,New Jersey
+510349,F,NA,23600,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,78,North Carolina
+510555,M,TRUE,30000,Divorced/Separated,FALSE,Rented,FALSE,2,47,Texas
+511732,F,NA,0,Never Married,FALSE,NA,NA,NA,32,Ohio
+512594,F,TRUE,30900,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,36,California
+516129,F,TRUE,48000,Never Married,FALSE,Rented,FALSE,2,45,Texas
+517253,M,TRUE,141000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,60,New York
+517696,F,NA,6300,Married,TRUE,Homeowner free and clear,FALSE,2,56,California
+518076,F,NA,40600,Widowed,TRUE,Homeowner free and clear,FALSE,2,73,North Carolina
+518899,M,TRUE,148000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,49,Nevada
+519446,F,NA,19500,Divorced/Separated,TRUE,Rented,FALSE,0,70,New Jersey
+520030,M,TRUE,49000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,66,Kansas
+520390,F,TRUE,180000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,51,South Dakota
+523769,F,TRUE,42220,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,43,Georgia
+523990,F,TRUE,90000,Never Married,TRUE,Rented,FALSE,1,31,Michigan
+525942,F,TRUE,10400,Divorced/Separated,TRUE,Rented,FALSE,0,78,New Jersey
+527928,F,TRUE,93300,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,43,Colorado
+528994,M,NA,0,Divorced/Separated,FALSE,NA,NA,NA,44,California
+532940,M,TRUE,62000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,33,Washington
+532971,M,TRUE,39000,Married,TRUE,Rented,FALSE,2,33,Nebraska
+535114,F,NA,0,Married,FALSE,Homeowner with mortgage/loan,TRUE,1,50,Wisconsin
+536463,M,TRUE,399900,Married,TRUE,Homeowner free and clear,FALSE,2,68,Louisiana
+536879,M,NA,0,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,53,California
+537484,F,TRUE,28000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,51,Illinois
+540956,F,TRUE,13000,Never Married,FALSE,Rented,FALSE,0,49,New York
+542384,F,NA,0,Married,FALSE,Rented,FALSE,2,57,Ohio
+543309,M,NA,10500,Never Married,TRUE,Rented,FALSE,0,44,New Jersey
+545826,F,FALSE,20300,Divorced/Separated,TRUE,Rented,FALSE,0,78,Louisiana
+546208,M,FALSE,26000,Divorced/Separated,TRUE,NA,NA,NA,40,Indiana
+547258,M,FALSE,0,Married,TRUE,Rented,FALSE,2,53,Massachusetts
+548303,M,FALSE,26700,Widowed,TRUE,Homeowner free and clear,FALSE,0,63,Illinois
+549068,M,TRUE,75100,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,42,Louisiana
+550733,F,TRUE,35020,Never Married,TRUE,Rented,FALSE,1,30,California
+551584,M,TRUE,20000,Married,TRUE,Homeowner free and clear,TRUE,1,40,New Jersey
+556935,F,TRUE,120000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,60,Hawaii
+559163,M,FALSE,47000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,70,Michigan
+559955,M,FALSE,0,Never Married,FALSE,NA,NA,NA,36,South Carolina
+560007,F,TRUE,100030,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,45,Indiana
+560783,F,FALSE,0,Never Married,TRUE,NA,NA,NA,37,Hawaii
+561588,F,TRUE,60000,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,54,New York
+562962,M,FALSE,0,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,55,Pennsylvania
+565628,F,TRUE,15000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,58,Arizona
+565740,F,TRUE,44200,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,3,34,Indiana
+568892,F,NA,9600,Widowed,TRUE,Rented,FALSE,0,86,Louisiana
+569414,F,TRUE,50600,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,1,57,Missouri
+571834,F,FALSE,19200,Never Married,TRUE,Rented,FALSE,1,29,North Carolina
+572341,F,TRUE,16000,Divorced/Separated,TRUE,Rented,FALSE,1,36,Alabama
+573573,M,TRUE,30000,Never Married,TRUE,Rented,TRUE,2,28,South Dakota
+575660,F,TRUE,28000,Never Married,FALSE,Rented,TRUE,1,24,Missouri
+576799,F,TRUE,76600,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,4,47,California
+578596,M,TRUE,143100,Married,TRUE,Homeowner free and clear,FALSE,4,66,Massachusetts
+580304,F,TRUE,32000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,2,52,Pennsylvania
+581657,F,NA,10500,Widowed,TRUE,Homeowner free and clear,FALSE,1,83,Nebraska
+583093,M,TRUE,16000,Never Married,TRUE,Rented,FALSE,2,48,Florida
+583249,F,TRUE,15000,Never Married,TRUE,Rented,FALSE,2,59,Illinois
+583934,F,NA,24000,Widowed,TRUE,Homeowner free and clear,FALSE,2,69,Pennsylvania
+584570,M,TRUE,22000,Married,TRUE,Rented,FALSE,1,38,Washington
+588705,M,NA,9600,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,84,California
+588711,F,FALSE,58000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,57,Arkansas
+589826,F,TRUE,105000,Never Married,TRUE,Rented,FALSE,1,30,Pennsylvania
+591244,M,FALSE,72600,Never Married,TRUE,Homeowner free and clear,FALSE,2,58,Wisconsin
+592496,M,TRUE,10700,Divorced/Separated,TRUE,Rented,FALSE,1,60,Texas
+595225,M,TRUE,39200,Married,TRUE,Homeowner with mortgage/loan,FALSE,4,51,Virginia
+595796,M,NA,93400,Married,TRUE,Homeowner free and clear,FALSE,2,82,Illinois
+595944,F,TRUE,59500,Never Married,TRUE,Homeowner free and clear,FALSE,1,63,Georgia
+596523,F,TRUE,80000,Divorced/Separated,TRUE,Rented,TRUE,1,31,Pennsylvania
+597817,F,NA,12500,Widowed,TRUE,Rented,FALSE,1,80,Utah
+598008,M,TRUE,388000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,51,New Jersey
+601247,M,NA,93500,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,3,73,Georgia
+601778,F,TRUE,10100,Widowed,FALSE,Homeowner with mortgage/loan,FALSE,1,63,New Jersey
+603304,M,TRUE,382000,Married,TRUE,Rented,TRUE,2,44,Indiana
+604216,M,NA,16500,Divorced/Separated,FALSE,NA,NA,NA,42,Pennsylvania
+604839,M,TRUE,150000,Never Married,TRUE,Rented,FALSE,2,25,Texas
+605624,F,TRUE,60000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,48,Michigan
+606108,F,TRUE,66000,Never Married,TRUE,Rented,TRUE,1,45,New Jersey
+606307,M,TRUE,120000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,38,Wisconsin
+607766,F,TRUE,19000,Never Married,TRUE,Rented,FALSE,1,49,California
+608789,M,NA,15000,Divorced/Separated,TRUE,NA,NA,NA,58,Pennsylvania
+609449,F,NA,53010,Widowed,TRUE,Homeowner free and clear,FALSE,2,83,Indiana
+612775,M,TRUE,150000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,34,Texas
+612779,F,TRUE,382000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,49,Louisiana
+613391,M,TRUE,6000,Married,TRUE,Rented,TRUE,2,23,Ohio
+616498,M,TRUE,30000,Never Married,FALSE,Rented,FALSE,4,52,Vermont
+618036,M,FALSE,38200,Never Married,FALSE,Rented,FALSE,2,41,Wisconsin
+618059,F,NA,15800,Widowed,TRUE,Occupied with no rent,FALSE,2,89,South Carolina
+618500,F,TRUE,8450,Married,TRUE,Rented,TRUE,3,64,Pennsylvania
+620116,F,TRUE,28000,Married,TRUE,Rented,TRUE,2,26,Alabama
+620452,M,FALSE,17000,Married,FALSE,Homeowner with mortgage/loan,FALSE,1,46,Ohio
+622713,F,TRUE,40000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,4,44,Pennsylvania
+624593,M,TRUE,285000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,54,Illinois
+628305,M,NA,24400,Married,TRUE,NA,NA,NA,93,California
+634710,F,TRUE,15000,Never Married,TRUE,Homeowner with mortgage/loan,FALSE,2,54,Minnesota
+635515,F,TRUE,120000,Divorced/Separated,TRUE,Rented,FALSE,1,51,California
+635574,M,TRUE,70000,Never Married,TRUE,Rented,FALSE,2,32,Indiana
+638458,F,TRUE,8000,Never Married,FALSE,Rented,FALSE,0,43,Virginia
+638760,M,FALSE,20000,Married,FALSE,Homeowner free and clear,FALSE,1,33,Pennsylvania
+642727,F,TRUE,48000,Divorced/Separated,TRUE,Homeowner with mortgage/loan,FALSE,1,58,Illinois
+643754,M,TRUE,70000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,54,New Jersey
+645268,M,TRUE,29000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,88,Washington
+646061,F,TRUE,11500,Widowed,TRUE,Rented,FALSE,2,54,Montana
+646808,M,TRUE,36000,Married,TRUE,Rented,FALSE,0,40,New Jersey
+647206,M,TRUE,65000,Married,FALSE,Homeowner with mortgage/loan,FALSE,4,47,Florida
+648220,M,TRUE,20000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,51,Ohio
+649827,F,TRUE,5500,Married,TRUE,NA,NA,NA,89,New York
+650803,M,TRUE,61000,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,40,Massachusetts
+650961,F,TRUE,60000,Never Married,TRUE,Rented,FALSE,1,38,California
+655940,F,TRUE,35780,Widowed,TRUE,Homeowner with mortgage/loan,FALSE,2,62,Florida
+661353,F,TRUE,180704,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,64,Illinois
+665669,F,TRUE,38000,Never Married,TRUE,Rented,FALSE,4,33,Pennsylvania
+667156,F,TRUE,40000,Married,TRUE,Rented,TRUE,1,46,New York
+668199,M,TRUE,160000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,45,Colorado
+668750,F,TRUE,8200,Never Married,FALSE,NA,NA,NA,24,Texas
+668777,M,TRUE,0,Never Married,FALSE,NA,NA,NA,33,Wisconsin
+673010,M,TRUE,63000,Married,TRUE,Rented,TRUE,1,46,Illinois
+674271,M,FALSE,0,Married,TRUE,Rented,TRUE,1,54,Massachusetts
+679084,M,TRUE,29200,Married,TRUE,Homeowner with mortgage/loan,FALSE,1,88,Minnesota
+679364,F,FALSE,22800,Married,TRUE,Homeowner free and clear,FALSE,2,55,California
+680475,M,TRUE,5200,Never Married,TRUE,NA,NA,NA,21,Ohio
+680503,M,TRUE,110010,Never Married,TRUE,Rented,FALSE,1,33,New Jersey
+682848,F,TRUE,59000,Widowed,TRUE,Rented,FALSE,0,58,Oregon
+683320,F,TRUE,70200,Married,TRUE,Homeowner with mortgage/loan,FALSE,3,32,Pennsylvania
+683867,M,TRUE,82000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,62,Oklahoma
+684640,M,TRUE,18200,Divorced/Separated,TRUE,Rented,FALSE,1,70,Maryland
+684701,M,NA,12600,Widowed,FALSE,Homeowner with mortgage/loan,FALSE,3,63,Iowa
+685624,M,TRUE,16000,Married,TRUE,Homeowner with mortgage/loan,FALSE,2,45,California
+685994,F,TRUE,21100,Married,FALSE,Homeowner free and clear,FALSE,2,63,Maryland
+688580,M,TRUE,48000,Married,TRUE,Rented,TRUE,2,22,Florida
+688736,F,NA,0,Married,TRUE,Rented,FALSE,2,34,Iowa
+692445,M,TRUE,140000,Married,TRUE,Homeowner with mortgage/loan,FALSE,5,48,Illinois
+693235,M,TRUE,36200,Married,TRUE,Homeowner free and clear,FALSE,2,43,Michigan
